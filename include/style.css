@@ -1,0 +1,32 @@
+/*공통*/
+.wh_font{color:#ffffff}
+.txt_center{text-align: center;}
+
+/*헤더*/
+a{text-decoration: none;}
+.top_one{display:flex;justify-content: center; padding-top:30px;}
+.top_menu{display:flex; margin:auto 0px;list-style: none;}
+.top_item{ margin: 40px; font-size: 20px;  border-radius: 30px; cursor:pointer;}
+.top_item > a{color: #FFFFFF;}
+.top_mark{color:#87CEEB}
+.top_logo{margin:auto 0px; cursor:pointer; }
+.top_logo > h1 > a{color:#ffffff}
+
+.sub2_top{position: absolute;top: 250px;color: white;}
+
+
+/*cho.php*/
+.img_one{display: flex; justify-content: center; padding-top: 250px;}
+.img_div{margin:auto 60px; cursor:pointer}
+
+
+/*detail*/
+.detail_con{display:flex;}
+
+.detail_one > tr > td{color: #ffffff; font-size: 20px; position: relative; left: 100px; padding-top: 20px;text-align: center;}
+
+.by_btn {border: 1px solid #000000;border-radius: 10px;background: #000000;color:#ffffff;font-size: 20px; padding: 10px;}
+
+
+/*basket*/
+.basket_buy{margin: auto;text-align: center;display: flex;margin-top: 50px;}
